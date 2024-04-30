@@ -1,4 +1,4 @@
-Background :
+<b>Background</b> :
 XYZ Company recognizes the critical importance of effectively managing its human resources to drive organisational success. With a workforce of highly skilled professionals, the company understands that minimising attrition is essential for maintaining a competitive edge in the industry.
 
 Current Situation:
