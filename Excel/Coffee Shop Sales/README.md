@@ -29,6 +29,7 @@ The main objective of this project is to analyze retail sales data to gain actio
     <li><b>product_detail:</b> Additional details about the product. <br> <i>Sample Data:</i> Medium size, Almond flavored</li>
 </ul>
 
+<p><b>Note:</b> Follow the mockup diagram provided by the client for designing the final report. Ensure that the structure, layout, and visual elements align with the mockup to maintain consistency with the client's expectations.</p>
 
 
 <h2>Recommended Insights</h2>
