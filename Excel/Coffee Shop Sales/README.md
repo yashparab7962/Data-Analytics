@@ -20,3 +20,11 @@ The main objective of this project is to analyze retail sales data to gain actio
     <li><b>Summarized Findings:</b> Compiled insights into a summary report or dashboard.</li>
 </ol>
 
+<h2>Insights</h2>
+<ol>
+    <li><b>Sales Performance:</b> Identify which products or categories generate the most revenue and which are underperforming.</li>
+    <li><b>Customer Preferences:</b> Understand popular products, peak transaction times, and preferred store locations.</li>
+    <li><b>Transaction Trends:</b> Analyze transaction volumes by time of day, day of the week, and seasonality to optimize staffing and inventory.</li>
+    <li><b>Revenue Analysis:</b> Evaluate the impact of different pricing strategies and promotions on overall sales.</li>
+    <li><b>Product Analysis:</b> Determine the relationship between unit price and quantity sold to assess pricing effectiveness.</li>
+</ol>
