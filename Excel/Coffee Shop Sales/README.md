@@ -9,6 +9,39 @@
 <b><h2>Objective</h2></b>
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 
+
+<h2>Dataset Description</h2>
+<ul>
+    <li><b>transaction_id:</b> Unique identifier for each transaction. <br> <i>Sample Data:</i> T001, T002</li>
+    <li><b>transaction_date:</b> Date on which the transaction occurred. <br> <i>Sample Data:</i> 2024-07-01, 2024-07-02</li>
+    <li><b>transaction_time:</b> Time at which the transaction took place. <br> <i>Sample Data:</i> 09:30:00, 14:45:00</li>
+    <li><b>transaction_qty:</b> Quantity of items purchased in the transaction. <br> <i>Sample Data:</i> 2, 5</li>
+    <li><b>store_id:</b> Unique identifier for the store where the transaction occurred. <br> <i>Sample Data:</i> S01, S02</li>
+    <li><b>store_location:</b> Physical location of the store. <br> <i>Sample Data:</i> Downtown, Uptown</li>
+    <li><b>product_id:</b> Unique identifier for each product. <br> <i>Sample Data:</i> P001, P002</li>
+    <li><b>unit_price:</b> Price per unit of the product. <br> <i>Sample Data:</i> $3.50, $4.00</li>
+    <li><b>product_category:</b> Category to which the product belongs. <br> <i>Sample Data:</i> Coffee, Pastry</li>
+    <li><b>product_type:</b> Type or variant of the product. <br> <i>Sample Data:</i> Latte, Croissant</li>
+    <li><b>product_detail:</b> Additional details about the product. <br> <i>Sample Data:</i> Medium size, Almond flavored</li>
+</ul>
+
+
+
+<h2>Recommended Insights</h2>
+<ul>
+    <li><b>How do sales vary by day of the week and hour of the day?</b> Analyze sales patterns to determine how they fluctuate throughout the week and day.</li>
+    <li><b>Are there any peak times for sales activity?</b> Identify specific times when sales activity is highest to optimize store operations.</li>
+    <li><b>What is the total sales revenue for each month?</b> Calculate and compare total monthly revenue to track financial performance over time.</li>
+    <li><b>How do sales vary across different store locations?</b> Evaluate sales performance at each store location to identify high and low-performing areas.</li>
+    <li><b>What is the average price/order per person?</b> Determine the average expenditure per order to gauge customer spending behavior.</li>
+    <li><b>Which products are the best-selling in terms of quantity and revenue?</b> Identify top-performing products based on sales volume and revenue generated.</li>
+    <li><b>How do sales vary by product category and type?</b> Analyze sales data across different product categories and types to understand preferences and trends.</li>
+</ul>
+
+
+
+
+
 <h2>Tools and Technology</h2>
 <ul>
     <li><b>Microsoft Excel:</b> For data import, cleaning, exploration, and basic analysis.</li>
