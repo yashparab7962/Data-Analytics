@@ -10,3 +10,13 @@
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 
 
+<h2>Steps for Coffee Shop Data Analysis</h2>
+<ol>
+    <li><b>Imported Data:</b> Loaded the coffee shop dataset into Excel.</li>
+    <li><b>Cleaned Data:</b> Addressed duplicates, missing values, and ensured correct data types.</li>
+    <li><b>Explored Data:</b> Conducted basic descriptive statistics and visual inspections.</li>
+    <li><b>Analyzed Trends:</b> Evaluated patterns and trends in transactions, sales, and products.</li>
+    <li><b>Visualized Insights:</b> Created charts and graphs to visualize key findings.</li>
+    <li><b>Summarized Findings:</b> Compiled insights into a summary report or dashboard.</li>
+</ol>
+
