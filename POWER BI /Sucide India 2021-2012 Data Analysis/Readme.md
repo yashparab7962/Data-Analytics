@@ -14,18 +14,39 @@
 
 <h3>Data Source</h3>
     <p>
-       The data used for this analysis is sourced from official government records, including the National Crime Records Bureau (NCRB) reports, and other relevant public datasets available from 2012 to 2021. The dataset includes the following features:
+       The data used for this analysis is sourced from official government records, including the National Crime Records Bureau (NCRB) reports, and other relevant public datasets available from 2012 to 2021. The dataset includes the following features: </p>
         <ul>
+    <li>State</li>
     <li>Year</li>
-    <li>State/Union Territory</li>
-    <li>Age Group</li>
+    <li>Type_code</li>
+    <li>Type</li>
     <li>Gender</li>
-    <li>Educational Qualification</li>
-    <li>Marital Status</li>
-    <li>Means Adopted</li>
-    <li>Profession/Occupation</li>
-    <li>Cause of Suicide</li>
-    <li>Number of Suicides</li>
+    <li>Age_group</li>
+    <li>Total</li>
 </ul>
 
-    </p>
+
+
+<h3>Tools and Technologies:</h3>
+<ul>
+    <li>Power BI: For data import, cleaning, transformation, and visualization.</li>
+    <li>Microsoft Excel: For initial data inspection and preprocessing.</li>
+    <li>Power Query: For data transformation and cleaning tasks.</li>
+    <li>DAX (Data Analysis Expressions): For creating measures and calculated columns to enhance data analysis in Power BI.</li>
+</ul>
+
+<h2>Steps and Methodology:</h2>
+<ul>
+    <li><strong>Data Collection:</strong> Gather data from official sources such as government records, NCRB reports, and other relevant public datasets.</li>
+    <li><strong>Data Inspection:</strong> Use Microsoft Excel to conduct an initial inspection of the data for completeness and accuracy.</li>
+    <li><strong>Data Import:</strong> Import the data into Power BI for further analysis.</li>
+    <li><strong>Data Cleaning:</strong> Utilize Power Query to clean and transform the data, addressing issues like missing values and inconsistencies.</li>
+    <li><strong>Data Transformation:</strong> Apply necessary transformations to the data, including normalization and aggregation, using Power Query.</li>
+    <li><strong>Data Analysis:</strong> Use DAX (Data Analysis Expressions) in Power BI to create measures and calculated columns to enhance data analysis.</li>
+    <li><strong>Data Visualization:</strong> Develop visualizations and dashboards in Power BI to represent the data effectively and highlight key insights.</li>
+    <li><strong>Report Generation:</strong> Generate and review reports to ensure they meet the analysis objectives and provide actionable insights.</li>
+</ul>
+
+<h2>Conclusion:</h2>
+<p>This project aims to provide a detailed analysis of suicide data in India, highlighting critical areas of concern and helping stakeholders develop informed strategies to combat this pressing issue. By leveraging Power BI's robust analytical and visualization capabilities, the project will present clear, actionable insights to support mental health initiatives and policy development.</p>
+    
