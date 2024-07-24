@@ -9,6 +9,17 @@
 <b><h2>Objective</h2></b>
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 
+<h2>Tools and Technology</h2>
+<ul>
+    <li><b>Microsoft Excel:</b> For data import, cleaning, exploration, and basic analysis.</li>
+    <li><b>Data Visualization Tools:</b> Such as Excel Charts, PivotTables, or Power BI for creating visual representations of the data.</li>
+    <li><b>Data Cleaning Add-ins:</b> Like Power Query for advanced data transformation and cleaning.</li>
+    <li><b>Statistical Analysis Tools:</b> Built-in Excel functions or add-ins for performing more complex analyses.</li>
+    <li><b>Reporting Tools:</b> For generating summary reports and dashboards.</li>
+</ul>
+
+
+
 
 <h2>Steps for Coffee Shop Data Analysis</h2>
 <ol>
