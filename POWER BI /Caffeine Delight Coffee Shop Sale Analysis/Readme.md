@@ -93,6 +93,23 @@ The main objective of this project is to analyze retail sales data to gain actio
       <li><strong>Insight:</strong> The distinct performance of Barista Espresso and Brewed Chai tea as top sellers highlights their importance in driving revenue. The moderate and lower sales of other products suggest potential areas for targeted promotions or product enhancements to increase their market presence.</li>
     </ul>
   </li>
+
+<li><strong>Sales Product Size Patterns</strong>
+    <ul>
+         <li><strong>Large</strong> size products generate the highest sales, totaling $237,958.15, while <strong>Small</strong> size products contribute the least at $46,402.70.</li>
+        <li><strong>Not Defined</strong> and <strong>Regular</strong> sizes have significant sales figures, suggesting a potential need for more precise size definitions to optimize inventory.</li>
+    </ul>
+  </li>
+
+
+
+
+
+
+
+
+
+  
 </ul>
 
 
