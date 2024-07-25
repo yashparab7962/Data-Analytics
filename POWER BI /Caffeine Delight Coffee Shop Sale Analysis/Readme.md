@@ -102,7 +102,7 @@ The main objective of this project is to analyze retail sales data to gain actio
  <br/>
 
  
-<li><strong>Sales Product Size Patterns</strong>
+<li><strong>Sales By Product Size Patterns</strong>
     <ul>
          <li><strong>Large</strong> size products generate the highest sales, totaling $237,958.15, while <strong>Small</strong> size products contribute the least at $46,402.70.</li>
         <li><strong>Not Defined</strong> and <strong>Regular</strong> sizes have significant sales figures, suggesting a potential need for more precise size definitions to optimize inventory.</li>
@@ -133,8 +133,36 @@ The main objective of this project is to analyze retail sales data to gain actio
         </li>
     </ul>
   </li>
+<br/>
+
+<li><strong>Sales By Stores Patterns</strong>
+    <ul>
+         <li><strong>Hell's Kitchen</strong> leads with the highest sales, indicating strong customer preference and potentially higher traffic in this area.</li>
+        <li><strong>Astoria</strong> follows closely, suggesting substantial sales and a solid customer base.</li>
+        <li><strong>Lower Manhattan</strong> also shows significant sales, reflecting its importance in overall sales performance.</li>
+    </ul>
+  </li>
+<br/>
+
+<li><strong>Quantity vs. Unit Price Relationships</strong>
+    <ul>
+         <li><strong>High Volume at Low Prices:</strong> Items priced around $2.5 and $3 have the highest transaction quantities, indicating strong demand for these price points.</li>
+        <li><strong>Moderate Sales at Higher Prices:</strong> Prices between $3.5 and $4.75 show significant sales, suggesting these prices are also popular but with lower transaction volumes compared to lower-priced items.</li>
+        <li><strong>Low Volume at High Prices:</strong> Items priced above $10 show much lower transaction quantities, suggesting these higher prices may be less attractive to customers or less commonly purchased.</li>
+    </ul>
+  </li>
+<br/>
 
 
+<li><strong>Quantity vs. Total Sales Relationships</strong>
+    <ul>
+         <li><strong>Highest Sales with Low Quantities:</strong> The highest total sales of $322,430.83 and $343,529.60 are observed with quantities of 1 and 2 units, respectively. This suggests that higher total sales are associated with a lower number of transactions, possibly due to high-value items or premium products.</li>
+        <li><strong>Significant Sales with Moderate Quantities:</strong> The quantity of 8 yields $3,600 in total sales, indicating a moderate total sales amount for a larger quantity of transactions.</li>
+        <li><strong>Low Sales with Higher Quantities:</strong> Quantities of 3, 4, 6, and 8 show considerably lower total sales, implying that higher transaction volumes do not necessarily lead to higher total sales.</li>
+    </ul>
+    </ul>
+  </li>
+<br/>
 
 
 
@@ -152,6 +180,9 @@ The main objective of this project is to analyze retail sales data to gain actio
       <li><strong>Steady Sales:</strong> From <span class="steady-sales">10 AM to 6 PM</span>, sales remain relatively stable, fluctuating within 1 or 2 standard deviations.</li>
     </ul>
   </li>
+    
+    <br/>
+    
   <li><strong>Weekly Sales Patterns</strong>
     <ul>
       <li><strong>Weekdays vs. Weekends:</strong></li>
@@ -160,12 +191,15 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
 
+  <br/>
+
   <li><strong>Monthly Sales Patterns</strong>
     <ul>
       <li><strong>Significant Growth:</strong> There is a notable increase in sales from March onwards, indicating a robust growth phase during the spring and early summer months.</li>
       <li><strong>Highest Sales:</strong> June records the highest sales figure, suggesting that mid-year promotions or seasonal demand could be driving this peak.</li>
     </ul>
   </li>
+  <br/>
 
 </ul>
 
