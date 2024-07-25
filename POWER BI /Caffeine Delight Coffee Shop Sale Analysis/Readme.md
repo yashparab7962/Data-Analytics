@@ -72,6 +72,23 @@ The main objective of this project is to analyze retail sales data to gain actio
 </ol>
 
 <h2>Insights</h2>
+<ul>
+  <li><strong>Hourly Sales Patterns</strong>
+    <ul>
+      <li><strong>Peak Hours:</strong> The busiest hours are from 8 AM to 10 AM, indicating a high volume of sales during these times.</li>
+      <li><strong>Steady Sales:</strong> From 10 AM to 6 PM, sales remain relatively stable, fluctuating within 1 or 2 standard deviations.</li>
+    </ul>
+  </li>
+  <li><strong>Weekly Sales Patterns</strong>
+    <ul>
+      <li><strong>Weekdays vs. Weekends:</strong></li>
+      <li><strong>Monday to Friday:</strong> The average sales during these days are approximately $100,000.</li>
+      <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around $97,000.</li>
+    </ul>
+  </li>
+</ul>
+
+
 <ol>
     <li><b>Sales Performance:</b> Identify which products or categories generate the most revenue and which are underperforming.</li>
     <li><b>Customer Preferences:</b> Understand popular products, peak transaction times, and preferred store locations.</li>
