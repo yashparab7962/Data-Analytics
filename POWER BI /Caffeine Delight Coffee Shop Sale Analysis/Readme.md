@@ -78,25 +78,21 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 <ul>
   <li><strong>Sales Product Category Patterns</strong>
-        <ul>
-          <li><strong>Top Performers:</strong> Coffee and tea are the highest-selling categories, demonstrating their strong consumer preference and consistent demand in the market.</li>
-          <li><strong>Moderate Sales:</strong> Bakery items, drinking chocolates, and coffee beans show moderate sales, indicating a steady but less pronounced consumer interest compared to coffee and tea.</li>
-          <li><strong>Category Performance Insight:</strong> The clear distinction in sales performance highlights coffee and tea as key revenue drivers, while the moderate performance of other categories suggests opportunities for targeted marketing or product promotions to boost their sales.</li>
-        </ul>
+    <ul>
+      <li><strong>Top Performers:</strong> Coffee and tea are the highest-selling categories, demonstrating their strong consumer preference and consistent demand in the market.</li>
+      <li><strong>Moderate Sales:</strong> Bakery items, drinking chocolates, and coffee beans show moderate sales, indicating a steady but less pronounced consumer interest compared to coffee and tea.</li>
+      <li><strong>Category Performance Insight:</strong> The clear distinction in sales performance highlights coffee and tea as key revenue drivers, while the moderate performance of other categories suggests opportunities for targeted marketing or product promotions to boost their sales.</li>
+    </ul>
   </li>
-
-    <li><strong>Sales Product Types Patterns</strong>
-        <ul>
-          <li><strong>Top Performers:</strong> Barista Espresso and Brewed Chai tea are the highest-selling product types, indicating strong consumer preference and high demand for these items.</li>
-          <li><strong>Moderate Sales:</strong> Hot chocolate and Gourmet brewed coffee show moderate sales, suggesting consistent but less prominent consumer interest compared to Barista Espresso and Brewed Chai tea.</li>
-          <li><strong>Lower Sales:</strong> Scone and Drip coffee exhibit lower sales figures, reflecting a more niche market demand or less promotional activity for these items.</li>
-          <li><strong>Category Performance Insight:</strong> The distinct performance of Barista Espresso and Brewed Chai tea as top sellers highlights their importance in driving revenue. The moderate and lower sales of other products suggest potential areas for targeted promotions or product enhancements to increase their market presence.</li>
-        </ul>
+  
+  <li><strong>Sales Product Types Patterns</strong>
+    <ul>
+      <li><strong>Top Performers:</strong> Barista Espresso and Brewed Chai tea are the highest-selling product types, indicating strong consumer preference and high demand for these items.</li>
+      <li><strong>Moderate Sales:</strong> Hot chocolate and Gourmet brewed coffee show moderate sales, suggesting consistent but less prominent consumer interest compared to Barista Espresso and Brewed Chai tea.</li>
+      <li><strong>Lower Sales:</strong> Scone and Drip coffee exhibit lower sales figures, reflecting a more niche market demand or less promotional activity for these items.</li>
+      <li><strong>Category Performance Insight:</strong> The distinct performance of Barista Espresso and Brewed Chai tea as top sellers highlights their importance in driving revenue. The moderate and lower sales of other products suggest potential areas for targeted promotions or product enhancements to increase their market presence.</li>
+    </ul>
   </li>
-
-
- 
-
 </ul>
 
 
