@@ -77,7 +77,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 <h3>Sales Performance</h3>
 
 <ul>
-  <li><strong>Sales Category Patterns</strong>
+  <li><strong>Sales Product Category Patterns</strong>
     <ul>
       <li><strong>Top Performers:</strong> Coffee and tea are the highest-selling categories, demonstrating their strong consumer preference and consistent demand in the market.</li>
       <li><strong>Moderate Sales:</strong> Bakery items, drinking chocolates, and coffee beans show moderate sales, indicating a steady but less pronounced consumer interest compared to coffee and tea.</li>
@@ -85,13 +85,15 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
 
-  <li><strong>Weekly Sales Patterns</strong>
+    <li><strong>Sales Product Types Patterns</strong>
     <ul>
-      <li><strong>Weekdays vs. Weekends:</strong></li>
-      <li><strong>Monday to Friday:</strong> The average sales during these days are approximately <span class="high-sales">$100,000</span>.</li>
-      <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around <span class="low-sales">$97,000</span>.</li>
+      <li><strong>Top Performers:</strong> Barista Espresso and Brewed Chai tea are the highest-selling product types, indicating strong consumer preference and high demand for these items.</li>
+      <li><strong>Moderate Sales:</strong> Hot chocolate and Gourmet brewed coffee show moderate sales, suggesting consistent but less prominent consumer interest compared to Barista Espresso and Brewed Chai tea.</li>
+      <li><strong>Lower Sales:</strong> Scone and Drip coffee exhibit lower sales figures, reflecting a more niche market demand or less promotional activity for these items.</li>
+      <li><strong>Category Performance Insight:</strong> The distinct performance of Barista Espresso and Brewed Chai tea as top sellers highlights their importance in driving revenue. The moderate and lower sales of other products suggest potential areas for targeted promotions or product enhancements to increase their market presence.</li>
     </ul>
   </li>
+
 
   <li><strong>Monthly Sales Patterns</strong>
     <ul>
