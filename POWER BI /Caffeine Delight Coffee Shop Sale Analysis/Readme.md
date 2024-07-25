@@ -5,7 +5,7 @@
 <center style="text-align:center;"><h1>Caffeine Delight Coffee Shop Sale Analysis Using POWER BI</h1></center>
 
 
-![Screenshot 2024-04-30 082923](https://github.com/yashparab7962/Data-Analytics/blob/main/POWER%20BI%20/Caffeine%20Delight%20Coffee%20Shop%20Sale%20Analysis/report_page-0001.jpg)
+![Screenshot 2024-04-30 082923](https://github.com/yashparab7962/Data-Analytics/blob/main/POWER%20BI%20/Caffeine%20Delight%20Coffee%20Shop%20Sale%20Analysis/report_images/coffe_shop_report_345634653_page-0001.jpg)
 
 
 
