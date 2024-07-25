@@ -11,15 +11,19 @@
 
 
 
-<b><h2>PROBLEM STATEMENT</h2></b>
+<h1><b>PROBLEM STATEMENT : </b></h1>
+
 
 <p> <span style="color:red!important;font-weight:700;">Caffeine Delight Coffee </span> has been a prominent player in the coffee market for several years, offering a wide range of coffee products. Recently, the company has observed significant fluctuations in sales and is now keen to understand the underlying factors driving these changes. The management team aims to investigate various aspects, including identifying which coffee products are performing the best and the worst, analyzing seasonal sales patterns, evaluating performance across different regions, and assessing how transaction quantities, unit prices, and product categories impact overall sales. To achieve this, a comprehensive analysis is needed to pinpoint trends and patterns that could inform strategic decisions and improve sales consistency. The goal is to deliver actionable insights that will help optimize product offerings, pricing strategies, and promotional efforts.</p>
 
-<b><h2>Objective</h2></b>
+<h1><b>Objective : </b></h1>
+
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 
 
-<h2>Dataset Description</h2>
+
+<h1><b>Dataset Description : </b></h1>
+
 <ul>
     <li><b>transaction_id:</b> Unique identifier for each transaction. <br> <i>Sample Data:</i> T001, T002</li>
     <li><b>transaction_date:</b> Date on which the transaction occurred. <br> <i>Sample Data:</i> 2024-07-01, 2024-07-02</li>
@@ -37,7 +41,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 <p><b>Note:</b> Follow the mockup diagram provided by the client for designing the final report. Ensure that the structure, layout, and visual elements align with the mockup to maintain consistency with the client's expectations.</p>
 
 
-<h2>Recommended Insights</h2>
+<h1><b>Requirements : </b></h1>
 <ul>
     <li><b>How do sales vary by day of the week and hour of the day?</b> Analyze sales patterns to determine how they fluctuate throughout the week and day.</li>
     <li><b>Are there any peak times for sales activity?</b> Identify specific times when sales activity is highest to optimize store operations.</li>
@@ -204,14 +208,63 @@ The main objective of this project is to analyze retail sales data to gain actio
 </ul>
 
 
-<ol>
-    <li><b>Sales Performance:</b> Identify which products or categories generate the most revenue and which are underperforming.</li>
-    <li><b>Customer Preferences:</b> Understand popular products, peak transaction times, and preferred store locations.</li>
-    <li><b>Transaction Trends:</b> Analyze transaction volumes by time of day, day of the week, and seasonality to optimize staffing and inventory.</li>
-    <li><b>Revenue Analysis:</b> Evaluate the impact of different pricing strategies and promotions on overall sales.</li>
-    <li><b>Product Analysis:</b> Determine the relationship between unit price and quantity sold to assess pricing effectiveness.</li>
-</ol>
+
+<h1><b> Reommnedation / Suggestions :</b> </h1>
+<ul>
+    <li><strong>Focus on High Performers:</strong>
+        <ul>
+            <li>Coffee and Tea: Continue promoting Barista Espresso and Brewed Chai tea, which are top sellers. Consider introducing new flavors or limited-time offerings to sustain interest.</li>
+            <li>Premium Products: Emphasize premium products like Ethiopia and Sustainably Grown Organic coffee to leverage their strong demand.</li>
+        </ul>
+    </li>
+    <li><strong>Boost Moderate Categories:</strong>
+        <ul>
+            <li>Bakery Items and Hot Chocolate: Implement targeted marketing or promotional campaigns to increase visibility and attract more customers. Consider bundling these products with popular items to enhance sales.</li>
+        </ul>
+    </li>
+    <li><strong>Address Lower Sales Products:</strong>
+        <ul>
+            <li>Low-Selling Items: Review marketing strategies for products like Espresso Shot and Civet Cat. Consider adjusting pricing, enhancing product features, or improving promotions to boost their appeal.</li>
+        </ul>
+    </li>
+    <li><strong>Optimize Product Sizes:</strong>
+        <ul>
+            <li>Large Size Products: Continue promoting large size products due to their high sales volume. Evaluate if there are opportunities to offer more variety or premium options in larger sizes.</li>
+            <li>Small Size Products: Assess potential to increase sales through promotional offers or bundles.</li>
+        </ul>
+    </li>
+    <li><strong>Enhance Store Performance:</strong>
+        <ul>
+            <li>Top Performing Stores: Leverage successful stores like Hell’s Kitchen for pilot new product launches or marketing campaigns. Analyze what drives their high sales and replicate successful strategies in other locations.</li>
+            <li>Underperforming Stores: Investigate reasons behind lower performance in specific stores and address any operational or promotional gaps.</li>
+        </ul>
+    </li>
+    <li><strong>Price Strategy Adjustments:</strong>
+        <ul>
+            <li>High Volume at Low Prices: Maintain competitive pricing on popular items priced around $2.5 and $3. Consider promotions or discounts to drive more sales at these price points.</li>
+            <li>Higher Price Items: Review pricing strategy for high-priced items above $10 to ensure they are perceived as valuable and competitive.</li>
+        </ul>
+    </li>
+    <li><strong>Manage Inventory Based on Sales Patterns:</strong>
+        <ul>
+            <li>Low Quantity, High Sales: Focus on stocking high-value or premium products that have higher total sales despite lower quantities.</li>
+            <li>Moderate Quantities: Ensure a balanced inventory for items with moderate sales volumes to avoid stockouts or excess inventory.</li>
+        </ul>
+    </li>
+    <li><strong>Optimize Sales Timing:</strong>
+        <ul>
+            <li>Peak Hours: Increase staffing or promotions during peak hours (8 AM to 10 AM) to capitalize on high sales volume.</li>
+            <li>Weekdays vs. Weekends: Introduce weekend-specific promotions or events to address the slight decrease in weekend sales.</li>
+        </ul>
+    </li>
+    <li><strong>Capitalize on Seasonal Trends:</strong>
+        <ul>
+            <li>Spring and Summer Growth: Plan and execute special promotions or product launches starting in March to capitalize on increased sales during spring and summer months.</li>
+        </ul>
+    </li>
+</ul>
 
 
-<h2>Conclusion</h2>
+
+<h1><b> Conclusion :</b> </h1>
 <p>The analysis of the coffee shop data provides valuable insights into sales performance, customer preferences, and transaction trends. By understanding which products are most popular and when peak transactions occur, the shop can better align its inventory and staffing. Revenue analysis reveals the effectiveness of pricing strategies, while product analysis helps in assessing pricing impact. Overall, these insights can guide strategic decisions to enhance sales, optimize operations, and improve customer satisfaction.</p>
