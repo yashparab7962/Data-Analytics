@@ -73,6 +73,8 @@ The main objective of this project is to analyze retail sales data to gain actio
 </ol>
 
 <h2>Insights</h2>
+
+<h3>Performance Over Time</h3>
 <ul>
   <li><strong>Hourly Sales Patterns</strong>
     <ul>
