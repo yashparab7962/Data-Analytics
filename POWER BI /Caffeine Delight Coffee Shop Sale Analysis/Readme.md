@@ -75,16 +75,16 @@ The main objective of this project is to analyze retail sales data to gain actio
 <h2>Insights</h2>
 <ul>
   <li><strong>Hourly Sales Patterns</strong>
-    <ul class="jHCexw">
-      <li><strong>Peak Hours:</strong> The busiest hours are from 8 AM to 10 AM, indicating a high volume of sales during these times.</li>
-      <li><strong>Steady Sales:</strong> From 10 AM to 6 PM, sales remain relatively stable, fluctuating within 1 or 2 standard deviations.</li>
+    <ul>
+      <li><strong>Peak Hours:</strong> The busiest hours are from <span class="peak-hours">8 AM to 10 AM</span>, indicating a high volume of sales during these times.</li>
+      <li><strong>Steady Sales:</strong> From <span class="steady-sales">10 AM to 6 PM</span>, sales remain relatively stable, fluctuating within 1 or 2 standard deviations.</li>
     </ul>
   </li>
   <li><strong>Weekly Sales Patterns</strong>
-    <ul class="jHCexw">
+    <ul>
       <li><strong>Weekdays vs. Weekends:</strong></li>
-      <li><strong>Monday to Friday:</strong> The average sales during these days are approximately $100,000.</li>
-      <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around $97,000.</li>
+      <li><strong>Monday to Friday:</strong> The average sales during these days are approximately <span class="high-sales">$100,000</span>.</li>
+      <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around <span class="low-sales">$97,000</span>.</li>
     </ul>
   </li>
 </ul>
