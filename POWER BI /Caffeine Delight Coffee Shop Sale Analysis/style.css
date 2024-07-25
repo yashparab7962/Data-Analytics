@@ -1,1 +1,16 @@
+.peak-hours {
+  color: blue;
+}
+
+.steady-sales {
+  color: green;
+}
+
+.high-sales {
+  color: red;
+}
+
+.low-sales {
+  color: orange;
+}
 
