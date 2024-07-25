@@ -208,7 +208,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 
 
-<h1><b> Reommnedation / Suggestions :</b> </h1>
+<h1><b> Recommendations / Suggestions :</b> </h1>
 <ul>
     <li><strong>Focus on High Performers:</strong>
         <ul>
