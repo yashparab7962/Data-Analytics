@@ -8,6 +8,9 @@
 ![Screenshot 2024-04-30 082923](https://github.com/yashparab7962/Data-Analytics/blob/main/POWER%20BI%20/Caffeine%20Delight%20Coffee%20Shop%20Sale%20Analysis/report_page-0001.jpg)
 
 
+
+
+
 <b><h2>PROBLEM STATEMENT</h2></b>
 
 <p> <span style="color:red!important;font-weight:700;">Caffeine Delight Coffee </span> has been a prominent player in the coffee market for several years, offering a wide range of coffee products. Recently, the company has observed significant fluctuations in sales and is now keen to understand the underlying factors driving these changes. The management team aims to investigate various aspects, including identifying which coffee products are performing the best and the worst, analyzing seasonal sales patterns, evaluating performance across different regions, and assessing how transaction quantities, unit prices, and product categories impact overall sales. To achieve this, a comprehensive analysis is needed to pinpoint trends and patterns that could inform strategic decisions and improve sales consistency. The goal is to deliver actionable insights that will help optimize product offerings, pricing strategies, and promotional efforts.</p>
@@ -77,15 +80,17 @@ The main objective of this project is to analyze retail sales data to gain actio
 <h3>Sales Performance</h3>
 
 <ul>
-  <li><strong>Sales Product Category Patterns</strong>
+  <li><strong>Sales By Product Category Patterns</strong>
     <ul>
       <li><strong>Top Performers:</strong> Coffee and tea are the highest-selling categories, demonstrating their strong consumer preference and consistent demand in the market.</li>
       <li><strong>Moderate Sales:</strong> Bakery items, drinking chocolates, and coffee beans show moderate sales, indicating a steady but less pronounced consumer interest compared to coffee and tea.</li>
       <li><strong>Insight:</strong> The clear distinction in sales performance highlights coffee and tea as key revenue drivers, while the moderate performance of other categories suggests opportunities for targeted marketing or product promotions to boost their sales.</li>
     </ul>
   </li>
+
+  <br/>
   
-  <li><strong>Sales Product Types Patterns</strong>
+  <li><strong>Sales By Product Types Patterns</strong>
     <ul>
       <li><strong>Top Performers:</strong> Barista Espresso and Brewed Chai tea are the highest-selling product types, indicating strong consumer preference and high demand for these items.</li>
       <li><strong>Moderate Sales:</strong> Hot chocolate and Gourmet brewed coffee show moderate sales, suggesting consistent but less prominent consumer interest compared to Barista Espresso and Brewed Chai tea.</li>
@@ -94,6 +99,9 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
 
+ <br/>
+
+ 
 <li><strong>Sales Product Size Patterns</strong>
     <ul>
          <li><strong>Large</strong> size products generate the highest sales, totaling $237,958.15, while <strong>Small</strong> size products contribute the least at $46,402.70.</li>
@@ -101,8 +109,30 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
 
+ <br/>
 
-
+<li><strong>Sales By Products Patterns</strong>
+    <ul>
+         <li><strong>Top Products:</strong>
+            <ul>
+                <li><strong>Ethiopia</strong> and <strong>Sustainably Grown Organic</strong> are leading, indicating strong demand for these premium products.</li>
+                <li><strong>Jamaican Coffee River</strong> and <strong>Brazilian</strong> also rank high, showing significant popularity in these varieties.</li>
+            </ul>
+        </li>
+        <li><strong>Moderate Products:</strong>
+            <ul>
+                <li><strong>Columbian Medium Roast</strong> and <strong>Cappuccino</strong> have solid sales, reflecting steady customer interest.</li>
+                <li><strong>Morning Sunrise Chai</strong> and <strong>Peppermint</strong> are popular, though not as dominant as top products.</li>
+            </ul>
+        </li>
+        <li><strong>Low Products:</strong>
+            <ul>
+                <li><strong>Espresso Shot</strong> and <strong>Civet Cat</strong> have the lowest sales, suggesting they may need marketing adjustments or inventory review.</li>
+                <li><strong>Chocolate Croissant</strong> and <strong>Scottish Cream Scone</strong> show limited demand, indicating potential opportunities for improvement.</li>
+            </ul>
+        </li>
+    </ul>
+  </li>
 
 
 
