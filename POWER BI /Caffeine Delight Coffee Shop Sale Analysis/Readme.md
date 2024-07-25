@@ -87,6 +87,14 @@ The main objective of this project is to analyze retail sales data to gain actio
       <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around <span class="low-sales">$97,000</span>.</li>
     </ul>
   </li>
+
+  <li><strong>Monthly Sales Patterns</strong>
+    <ul>
+      <li><strong>Significant Growth:</strong> There is a notable increase in sales from March onwards, indicating a robust growth phase during the spring and early summer months.</li>
+      <li><strong>Highest Sales:</strong> June records the highest sales figure, suggesting that mid-year promotions or seasonal demand could be driving this peak.</li>
+    </ul>
+  </li>
+
 </ul>
 
 
