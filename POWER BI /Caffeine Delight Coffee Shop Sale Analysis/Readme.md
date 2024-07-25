@@ -74,6 +74,36 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 <h2>Insights</h2>
 
+<h3>Sales Performance</h3>
+
+<ul>
+  <li><strong>Sales Category Patterns</strong>
+    <ul>
+      <li><strong>Top Performers:</strong> Coffee and tea are the highest-selling categories, demonstrating their strong consumer preference and consistent demand in the market.</li>
+      <li><strong>Moderate Sales:</strong> Bakery items, drinking chocolates, and coffee beans show moderate sales, indicating a steady but less pronounced consumer interest compared to coffee and tea.</li>
+      <li><strong>Category Performance Insight:</strong> The clear distinction in sales performance highlights coffee and tea as key revenue drivers, while the moderate performance of other categories suggests opportunities for targeted marketing or product promotions to boost their sales.</li>
+    </ul>
+  </li>
+
+  <li><strong>Weekly Sales Patterns</strong>
+    <ul>
+      <li><strong>Weekdays vs. Weekends:</strong></li>
+      <li><strong>Monday to Friday:</strong> The average sales during these days are approximately <span class="high-sales">$100,000</span>.</li>
+      <li><strong>Saturday and Sunday:</strong> The average sales slightly decrease to around <span class="low-sales">$97,000</span>.</li>
+    </ul>
+  </li>
+
+  <li><strong>Monthly Sales Patterns</strong>
+    <ul>
+      <li><strong>Significant Growth:</strong> There is a notable increase in sales from March onwards, indicating a robust growth phase during the spring and early summer months.</li>
+      <li><strong>Highest Sales:</strong> June records the highest sales figure, suggesting that mid-year promotions or seasonal demand could be driving this peak.</li>
+    </ul>
+  </li>
+
+</ul>
+
+
+
 <h3>Performance Over Time</h3>
 <ul>
   <li><strong>Hourly Sales Patterns</strong>
