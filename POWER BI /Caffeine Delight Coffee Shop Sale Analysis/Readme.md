@@ -185,7 +185,7 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
     
-    <br/>
+<br>
     
   <li><strong>Weekly Sales Patterns</strong>
     <ul>
@@ -195,7 +195,7 @@ The main objective of this project is to analyze retail sales data to gain actio
     </ul>
   </li>
 
-  <br/>
+<br>
 
   <li><strong>Monthly Sales Patterns</strong>
     <ul>
@@ -203,8 +203,7 @@ The main objective of this project is to analyze retail sales data to gain actio
       <li><strong>Highest Sales:</strong> June records the highest sales figure, suggesting that mid-year promotions or seasonal demand could be driving this peak.</li>
     </ul>
   </li>
-  <br/>
-
+<br>
 </ul>
 
 
@@ -216,52 +215,52 @@ The main objective of this project is to analyze retail sales data to gain actio
             <li>Coffee and Tea: Continue promoting Barista Espresso and Brewed Chai tea, which are top sellers. Consider introducing new flavors or limited-time offerings to sustain interest.</li>
             <li>Premium Products: Emphasize premium products like Ethiopia and Sustainably Grown Organic coffee to leverage their strong demand.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Boost Moderate Categories:</strong>
         <ul>
             <li>Bakery Items and Hot Chocolate: Implement targeted marketing or promotional campaigns to increase visibility and attract more customers. Consider bundling these products with popular items to enhance sales.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Address Lower Sales Products:</strong>
         <ul>
             <li>Low-Selling Items: Review marketing strategies for products like Espresso Shot and Civet Cat. Consider adjusting pricing, enhancing product features, or improving promotions to boost their appeal.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Optimize Product Sizes:</strong>
         <ul>
             <li>Large Size Products: Continue promoting large size products due to their high sales volume. Evaluate if there are opportunities to offer more variety or premium options in larger sizes.</li>
             <li>Small Size Products: Assess potential to increase sales through promotional offers or bundles.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Enhance Store Performance:</strong>
         <ul>
             <li>Top Performing Stores: Leverage successful stores like Hell’s Kitchen for pilot new product launches or marketing campaigns. Analyze what drives their high sales and replicate successful strategies in other locations.</li>
             <li>Underperforming Stores: Investigate reasons behind lower performance in specific stores and address any operational or promotional gaps.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Price Strategy Adjustments:</strong>
         <ul>
             <li>High Volume at Low Prices: Maintain competitive pricing on popular items priced around $2.5 and $3. Consider promotions or discounts to drive more sales at these price points.</li>
             <li>Higher Price Items: Review pricing strategy for high-priced items above $10 to ensure they are perceived as valuable and competitive.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Manage Inventory Based on Sales Patterns:</strong>
         <ul>
             <li>Low Quantity, High Sales: Focus on stocking high-value or premium products that have higher total sales despite lower quantities.</li>
             <li>Moderate Quantities: Ensure a balanced inventory for items with moderate sales volumes to avoid stockouts or excess inventory.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Optimize Sales Timing:</strong>
         <ul>
             <li>Peak Hours: Increase staffing or promotions during peak hours (8 AM to 10 AM) to capitalize on high sales volume.</li>
             <li>Weekdays vs. Weekends: Introduce weekend-specific promotions or events to address the slight decrease in weekend sales.</li>
         </ul>
-    </li>
+    </li> <br>
     <li><strong>Capitalize on Seasonal Trends:</strong>
         <ul>
             <li>Spring and Summer Growth: Plan and execute special promotions or product launches starting in March to capitalize on increased sales during spring and summer months.</li>
         </ul>
-    </li>
+    </li> <br>
 </ul>
 
 
